@@ -32,3 +32,22 @@ Follow up:
 Try to come up with as many solutions as you can. There are at least three different ways to solve this problem.
 Could you do it in-place with O(1) extra space?
 '''
+class Solution(object):
+    def rotate(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+        def reverse(nums, start, end):
+
+            while start < end:
+                nums[start], nums[end] = nums[end], nums[start]
+                start+=1
+                end-=1
+        k%=len(nums)
+        n = len(nums)
+        if k:
+            reverse(nums, 0, len(nums)-1)
+            reverse(nums, 0, k-1)
+            reverse(nums, k, len(nums)-1)
