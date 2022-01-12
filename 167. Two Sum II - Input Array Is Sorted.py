@@ -50,5 +50,5 @@ class Solution:
         dictionary = {}
         for i, num in enumerate(numbers):
             if target - num in dictionary:
-                return [dictionary[num]+1, i+1]
+                return [dictionary[target - num]+1, i+1]
             dictionary[num] = i
