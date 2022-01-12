@@ -21,3 +21,11 @@ s does not contain any leading or trailing spaces.
 There is at least one word in s.
 All the words in s are separated by a single space.
 '''
+
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        res = ""
+
+        for word in s.split():
+            res+=word[::-1]+" "
+        return res[:-1]
