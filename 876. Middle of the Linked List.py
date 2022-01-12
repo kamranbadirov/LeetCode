@@ -25,3 +25,23 @@ The number of nodes in the list is in the range [1, 100].
 1 <= Node.val <= 100
 
 '''
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        count = 1
+        head2 = head
+        while head2.next:
+            count += 1
+            head2 = head2.next
+
+        middle = count // 2
+
+        while middle > 0:
+            head = head.next
+            middle -= 1
+        return head
