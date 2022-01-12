@@ -31,3 +31,24 @@ numbers is sorted in non-decreasing order.
 -1000 <= target <= 1000
 The tests are generated such that there is exactly one solution.
 '''
+
+class Solution:
+    # solution #1
+    def twoSum(self, numbers, target):
+        i, j = 0, len(numbers)-1
+        while i<j:
+            if numbers[i]+numbers[j]==target:
+                return[i+1, j+1]
+            elif numbers[i]+numbers[j] < target:
+                i+=1
+            else:
+                j-=1
+
+    # solution #2
+
+    def twoSum_2(self, numbers, target):
+        dictionary = {}
+        for i, num in enumerate(numbers):
+            if target - num in dictionary:
+                return [dictionary[num]+1, i+1]
+            dictionary[num] = i
