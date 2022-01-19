@@ -15,3 +15,5 @@ do
    git push
 
 done
+
+# this file is for testing purposes
