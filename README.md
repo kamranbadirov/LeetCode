@@ -6,6 +6,6 @@ Colons can be used to align columns.
 
 | LeetCode | Problem          | Difficulty  |
 | -------- |:---------------: | -----------:|
-| 3        | Longest substring|             |
-| 344      | Rever String     |             |
-
+| 3        | Longest substring|  easy       |
+| 344      | Rever String     |  easy       |
+| 19       | Remove Nth node from the End of List| medium |
