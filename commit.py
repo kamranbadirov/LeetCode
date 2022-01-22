@@ -4,8 +4,9 @@ import sys
 import os
 import subprocess
 from traceback import print_tb
-file_name = sys.argv[1]
+file_name = sys.argv[1].replace(" ", "\ ")
 message = sys.argv[2]
+print('git add \'{0}\''.format(file_name))
 os.system('echo commiting changes for {0}'.format(file_name))
 print("+-+-+-+-+-+-+-+-+-+-+-+-")
 print("")
