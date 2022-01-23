@@ -13,3 +13,5 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 189       | Rotate Array | Medium | Jan 9, 22
 | 278       | First Bad Version | Easy |Jan 8, 22|
 | 344       | Rever String     |  Easy       | Jan 11, 22|
+| 557       | Revese Words in a String ||| |Easy |  Jan 11, 22 |
+| 567       | Permutation in string  |  Medium | Jan 16, 22|
