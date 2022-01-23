@@ -20,4 +20,4 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 733       | Flood Fill             |   Easy      |Jan 18, 22 |
 | 876       | Middle of the Linked List | Easy |Jan 12, 22 |
 | 977       | Squares of a Sorted Array | Easy |Jan 8, 22 |
-|
+| 2095      | Delete The Middle of Node of a Linked List | Jan 15, 22|
