@@ -16,3 +16,4 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 557       | Revese Words in a String ||| |Easy |  Jan 11, 22 |
 | 567       | Permutation in string  |  Medium | Jan 16, 22|
 | 704       | Binary Search          |  Easy   | Jan 7, 22|
+| 705       | Design HashSet         |Easy      | Jan 7, 22 |
