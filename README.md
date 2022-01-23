@@ -18,4 +18,5 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 704       | Binary Search          |  Easy   | Jan 7, 22|
 | 705       | Design HashSet         |Easy      | Jan 7, 22 |
 | 733       | Flood Fill             | Easy      |Jan 18, 22 |
+| 876       | MIddle of the Linked List | Easy |Jan 12, 22 |
 |
