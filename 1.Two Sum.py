@@ -34,4 +34,8 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 
 class Solution:
     def twoSum(self, nums, target):
-        return
+        res = {}
+        for i in range(len(nums)):
+            if (target-nums[i]) in res:
+                return [i, res[target-nums[i]]]
+            res[nums[i]] = i
