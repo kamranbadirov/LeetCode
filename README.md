@@ -12,6 +12,7 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 167       | Two sums 2 - Input Array is sorted| Easy| Jan 11
 | 189       | Rotate Array           | Medium | Jan 9, 22
 | 278       | First Bad Version      |  Easy |Jan 8, 22|
+| 283       | Move Zeroes            | Easy  | Jan 10, 22 |
 | 344       | Rever String           |  Easy       | Jan 11, 22|
 | 557       | Revese Words in a String ||| |Easy |  Jan 11, 22 |
 | 567       | Permutation in string  |  Medium | Jan 16, 22|
