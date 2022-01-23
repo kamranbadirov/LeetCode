@@ -21,7 +21,7 @@ s[i] is a printable ascii character.
 '''
 
 class Solution:
-    def reverseString(self, s: List[str]) -> None:
+    def reverseString(self, s):
         """
         Do not return anything, modify s in-place instead.
         """
@@ -30,3 +30,6 @@ class Solution:
             s[start], s[end] = s[end], s[start]
             start += 1
             end -= 1
+
+        # solution 2 in pythonic way
+        s.reverse()
