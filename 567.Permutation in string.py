@@ -23,21 +23,24 @@ s1 and s2 consist of lowercase English letters.
 '''
 
 class Solution:
+    # TODO: solve this again
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        res = ""
-        for char in s2:
-            print(res)
-            if char in s1:
-                res += char
-            if res.count(char) > s1.count(char):
-                print(res)
-                res = res[-1]
-            if  (char not in s1):
-                res = ""
-            if len (res) == len(s1):
-                print(res)
-                return True
-        return False
+        # res = ""
+        # for char in s2:
+        #     print(res)
+        #     if char in s1:
+        #         res += char
+        #     if res.count(char) > s1.count(char):
+        #         print(res)
+        #         res = res[-1]
+        #     if  (char not in s1):
+        #         res = ""
+        #     if len (res) == len(s1):
+        #         print(res)
+        #         return True
+        # return False
+
+
 
 if __name__ == "__main__":
     a = Solution()

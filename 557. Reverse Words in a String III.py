@@ -29,3 +29,7 @@ class Solution:
         for word in s.split():
             res+=word[::-1]+" "
         return res[:-1]
+
+if __name__ == "__main__":
+    s = Solution()
+    print(s.reverseWords("Let's take LeetCode contest"))
