@@ -27,7 +27,7 @@ Constraints:
 s consists of English letters, digits, symbols and spaces.
 '''
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+    def lengthOfLongestSubstring(self, s):
         longest = ""
         temp = ""
         for char in s:
@@ -42,6 +42,20 @@ class Solution:
         if len(temp) > len(longest):
             return len(temp)
         return len(longest)
+
+#second solution:
+    def lengthOfLongestSubstring2(self, s):
+        res = ""
+        temp = ""
+        for char in s:
+            if char not in temp:
+                temp += char
+            else:
+                temp = temp[temp.index(char)+1:]+char
+            if len(temp) > len(res):
+                res = temp
+        return len(res)
+
 
 
 
