@@ -44,7 +44,7 @@ class Solution:
                     return True
                 else:
                     print("s2_list=",s2_list)
-                    if ord(s2[j])!=ord(s2[r+j-1]) and j>=r:
+                    if ord(s2[j])!=ord(s2[r+j-1]):
                         s2_list[ord(s2[j])-ord('a')] = 0
                     s2_list[ord(s2[r+j])-ord('a')] = 1
         print("final flag")
