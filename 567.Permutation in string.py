@@ -38,10 +38,7 @@ class Solution:
             else:
                 s2_list[ord(s2[j])-ord("a")]-=1
                 s2_list[ord(s2[r+j])-ord('a')] += 1
-        if s1_list == s2_list:
-            return True
-        return False
-
+        return s1_list == s2_list
 
 
 
