@@ -19,7 +19,7 @@ Input: nums = [1]
 Output: 1
 '''
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
+    def singleNumber(self, nums):
         res = []
         for num in nums:
             if num not in res:
@@ -28,6 +28,14 @@ class Solution:
                 res.remove(num)
 
         return res[0]
+
+    # solution with bit manipulation
+    def singleNumber_2(self, nums):
+        res = 0
+        for num in nums:
+            res ^= num
+
+        return res
 
 
 
