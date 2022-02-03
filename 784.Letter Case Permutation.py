@@ -19,3 +19,19 @@ Constraints:
 
 1 <= s.length <= 12
 s consists of lowercase English letters, uppercase English letters, and digits.'''
+
+class Solution:
+    def letterCasePermutation(self, s: str) -> List[str]:
+        res = [""]
+        for c in s:
+            tmp = []
+            for w in res:
+                 if c.isalpha():
+                    tmp.append(w+c.lower())
+                    tmp.append(w+c.upper())
+                 else:
+                    tmp.append(w+c)
+            res = tmp
+        return res
+
+
