@@ -34,6 +34,4 @@
 | 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check
 
 if the current number worked, then the diff (targe- curr num) should be in the hashmap.
-
-
 | 121       | Best Time to Buy and Sell Stock |Easy  |
