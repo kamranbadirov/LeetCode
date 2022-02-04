@@ -1,6 +1,6 @@
 # LeetCode Practice Solutions
 
-This year I am commited to solve on average at least 1 leetcode question a day.
+#### This year I am commited to solve on average at least 1 leetcode question a day.
 
 
 | LeetCode  | Problem          | Difficulty  | Date |
@@ -26,7 +26,7 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 
 # Blind 75 LeetCode Questions
 
-### Below list pertains to the list of questions so-called "Blind 75", which is presumably list of most important LC questions for coding interview
+#### Below list pertains to the list of questions so-called ["Blind 75"](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) hich is presumably list of most important LC questions for coding interview
 
 | LeetCode  | Problem          | Difficulty  | Date  |
 | --------  |:---------------: | -----------:| ----: |
