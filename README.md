@@ -26,7 +26,7 @@
 
 # Blind 75 LeetCode Questions
 
-#### Below list pertains to the list of questions so-called ["Blind 75"](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU), which is presumably list of most important LC questions for coding interview
+#### Below list pertains to the list of questions so-called <a href="https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU" target="_blank">"Blind 75"</a>, which is presumably list of most important LC questions for coding interview
 
 | LeetCode  | Problem          | Difficulty  | Date  |
 | --------  |:---------------: | -----------:| ----: |
