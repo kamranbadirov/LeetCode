@@ -17,9 +17,8 @@ from traceback import print_tb
 # print("+-+-+-+-+-+-+-+-+-+-+-+-")
 # os.system('echo completed remote update')
 for i in range(100):
-    print("+-+-+-+-+-+-+-+-+-+-+-+-")
-    print("")
-    if i%2:
+
+    if not i%2:
         os.system("touch tesfile")
     else:
         os.system("rm testfile")
