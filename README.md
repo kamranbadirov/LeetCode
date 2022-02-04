@@ -30,6 +30,6 @@
 
 # Array questions
 | LeetCode  | Problem                                | Difficulty         |    <div style="width:60px">Dates</div> | <div style="width:100px">Tips & Tricks</div>
-| --------  |:---------------------------------------| :-----------       | ----:                    | :----
+| --------  |:---------------------------------------| :-----------       | :----                    | :----
 | 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
-| 121       | Best Time to Buy and Sell Stock        |  Easy              | N/A
+| 121       | Best Time to Buy and Sell Stock        |  Easy              | Feb 4, 22                | N/A
