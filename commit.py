@@ -19,13 +19,10 @@ from traceback import print_tb
 for i in range(100):
 
     if i%2 == 0:
-        os.system("touch tesfile")
-        os.system("git add .")
-        os.system("git commit -m \"testing automating git commands\"")
-        os.system("git push")
+        os.system("touch testfile")
     else:
         os.system("rm testfile")
-        os.system("git add .")
-        os.system("git commit -m \"testing automating git commands\"")
-        os.system("git push")
+    os.system("git add .")
+    os.system("git commit -m \"testing automating git commands\"")
+    os.system("git push")
 
