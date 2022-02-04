@@ -22,3 +22,12 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 | 876       | Middle of the Linked List | Easy |Jan 12, 22 |
 | 977       | Squares of a Sorted Array | Easy |Jan 8, 22 |
 | 2095      | Delete The Middle of Node of a Linked List | Medium | Jan 15, 22|
+
+
+# Blind 75 LeetCode Questions
+
+## Below list pertains to the list of questions so-called "Blind 75", which is presumably list of most important LC questions for coding interview
+
+| LeetCode  | Problem          | Difficulty  | Date  |
+| --------  |:---------------: | -----------:| ----: |
+|           |                  |             |       |
