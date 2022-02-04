@@ -26,7 +26,7 @@ This year I am commited to solve on average at least 1 leetcode question a day.
 
 # Blind 75 LeetCode Questions
 
-### Below list pertains to the list of questions so-called "Blind 75", which is presumably list of most important LC questions for coding interview
+#### Below list pertains to the list of questions so-called "Blind 75", which is presumably list of most important LC questions for coding interview
 
 | LeetCode  | Problem          | Difficulty  | Date  |
 | --------  |:---------------: | -----------:| ----: |
