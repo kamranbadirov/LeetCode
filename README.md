@@ -29,7 +29,7 @@
 #### Below list pertains to the list of questions so-called ["Blind 75"](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) hich is presumably list of most important LC questions for coding interview
 
 # Array questions
-| LeetCode  | Problem                | Difficulty         | Date                     | Tips & Tricks
+| LeetCode  | Problem                | Difficulty         | Date                     | <div style="width:290px">Tips & Tricks</div>
 | --------  |:---------------:       | -----------:       | ----:                    | :----
 | 1         |  Two Sums              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
 
