@@ -31,5 +31,7 @@
 # Array questions
 | LeetCode  | Problem                | Difficulty         | Date                     | Tips & Trick
 | --------  |:---------------:       | -----------:       | ----:                    | ----:
-| 1         |  Two Sums              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap
+| 1         |  Two Sums              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list.
+For each iteration check if the current number worked,
+then the diff (targe- curr num) should be in the hashmap
 |
