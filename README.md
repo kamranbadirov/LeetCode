@@ -21,7 +21,7 @@
 | 733       | Flood Fill             |   Easy      |Jan 18, 22 |
 | 876       | Middle of the Linked List | Easy |Jan 12, 22 |
 | 977       | Squares of a Sorted Array | Easy |Jan 8, 22 |
-| 2095      | Delete The Middle of Node of a Linked List | Medium | Jan 15, 22|
+| 2095      | Delete The Middle of Node of a Linked List | Medium | Feb 5, 22|
 
 
 # Blind 75 LeetCode Questions
@@ -32,4 +32,4 @@
 | LeetCode  | Problem                                | Difficulty         |    <div style="width:60px">Dates</div> | <div style="width:100px">Tips & Tricks</div>
 | --------  |:---------------------------------------| :-----------       | :----                    | :----
 | 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
-| 121       | Best Time to Buy and Sell Stock        |  Easy              | Feb 4, 22                | *Under Construction*
+| 121       | Best Time to Buy and Sell Stock        |  Easy              | Feb 5, 22                | Use two moving pointer and one profit var to compare
