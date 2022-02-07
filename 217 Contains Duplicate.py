@@ -35,3 +35,9 @@ class Solution:
             else:
                 storage[v] = i
         return False
+# Another pythonic solution taken from the discussion section
+
+
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+       return len(nums) != len(set(nums))
