@@ -19,22 +19,13 @@ Input: nums = [5,4,-1,7,8]
 Output: 23
 
  '''
-
- # wrong solution temporarily
+# neat solution, not by me
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        temp, res = [nums[0]], [nums[0]]
-        t_s, s = nums[0], nums[0]
+        cur_sum, ans = nums[0], nums[0]
 
         for num in nums[1:]:
-            t_s += num
-            temp.append(num)
-            if t_s > s:
-                res = temp
-                s = t_s
-            if t_s < 0:
-                temp = [num]
-                t_s = num
-        return s
-
+            cur_sum = max(num, num+cur_sum)
+            ans = max(ans, cur_sum)
+        return ans
 
