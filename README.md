@@ -3,7 +3,7 @@
 #### This year I am commited to solve on average at least 1 leetcode question a day.
 
 
-|#| LeetCode  | Problem          | Difficulty  | Date |
+| LeetCode  | Problem          | Difficulty  | Date |
 |1| --------  |:---------------: | -----------:| ----: |
 |2| 1         |  Two Sums              |  Easy        | Jan 22, 22|
 |3| 3         | Longest substring      | Medium        | Jan 13, 22 |
