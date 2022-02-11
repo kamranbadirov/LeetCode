@@ -29,9 +29,9 @@
 #### Below list pertains to the list of questions called ["Blind 75"](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) hich is presumably a list of most important LC questions for coding interview
 
 # Array questions
-| LeetCode  | Problem                                | Difficulty         |    <div style="width:60px">Dates</div> | <div style="width:100px">Tips & Tricks</div>
-| --------  |:---------------------------------------| :-----------       | :----                    | :----
-|1| 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
+| #|LeetCode  | Problem                                | Difficulty         |    <div style="width:60px">Dates</div> | <div style="width:100px">Tips & Tricks</div>
+|  |--------  |:---------------------------------------| :-----------       | :----                    | :----
+|1 | 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
 |2| 121       | Best Time to Buy and Sell Stock        |  Easy              | Feb 5, 22                | Use two moving pointer and one profit var to compare
 |3| 217       | Contains duplicate                     |  Easy              | Feb 6, 22                | convert list to set and check the length
 |4| 238       | Product of Array Except Self           |  Medium            | Feb 7, 22                | Two loops in each direction, finding left and right of eachnumber
