@@ -37,3 +37,4 @@
 |4| 238       | Product of Array Except Self           |  Medium            | Feb 7, 22                | Two loops in each direction, finding left and right of eachnumber
 |5| 53        | Maximum Subarray                       |  Easy              | Feb 9, 22                | Kadene's Algorithm. Dynamic Programming
 |6| 152       | Maximum Product Subarray               |  Medium            | Fev 10, 22               | Kadene's Algorithm. Use 3 variable to store result, min, max
+|7| 153       | Find Minimum in Rotated Sorted Array   |  Medium            | Fev 11, 22               | Pythonic way if to use min(). Otherwise use binary search and use the fact in rotated list l[last element] < l[firs element]
