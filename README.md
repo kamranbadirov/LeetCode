@@ -36,5 +36,6 @@
 |3| 217       | Contains duplicate                     |  Easy              | Feb 6, 22                | convert list to set and check the length
 |4| 238       | Product of Array Except Self           |  Medium            | Feb 7, 22                | Two loops in each direction, finding left and right of eachnumber
 |5| 53        | Maximum Subarray                       |  Easy              | Feb 9, 22                | Kadene's Algorithm. Dynamic Programming
-|6| 152       | Maximum Product Subarray               |  Medium            | Fev 10, 22               | Kadene's Algorithm. Use 3 variable to store result, min, max
-|7| 153       | Find Minimum in Rotated Sorted Array   |  Medium            | Fev 11, 22               | Pythonic way if to use min(). Otherwise use binary search and use the fact in rotated list l[last element] < l[firs element]
+|6| 152       | Maximum Product Subarray               |  Medium            | Feb 10, 22               | Kadene's Algorithm. Use 3 variable to store result, min, max
+|7| 153       | Find Minimum in Rotated Sorted Array   |  Medium            | Feb 11, 22               | Pythonic way if to use min(). Otherwise use binary search and use the fact in rotated list l[last element] < l[firs element]
+|8| 33        | Search in Rotated Sorted Array         | Medium             | Feb 11, 22               | Either left or right to the mid point if steadily increasing. Find mid point, check weather on either side target is within that range
