@@ -22,7 +22,7 @@ Output: 23
 # neat solution, not by me
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        cur_sum, ans = nums[0], nums[0]
+        cur_sum =ans = nums[0]
 
         for num in nums[1:]:
             cur_sum = max(num, num+cur_sum)
