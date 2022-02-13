@@ -39,4 +39,5 @@
 |6| 152       | Maximum Product Subarray               |  Medium            | Feb 10, 22               | Kadene's Algorithm. Use 3 variable to store result, min, max
 |7| 153       | Find Minimum in Rotated Sorted Array   |  Medium            | Feb 11, 22               | Pythonic way if to use min(). Otherwise use binary search and use the fact in rotated list l[last element] < l[firs element]
 |8| 33        | Search in Rotated Sorted Array         | Medium             | Feb 11, 22               | Either left or right to the mid point if steadily increasing. Find mid point, check weather on either side target is within that range
-|9| 11        | Container With Most Water              | Medium             | Feb 13, 22               | Haven't solved yet
+|9| 15        | 3 Sum                                   | Medium            | Feb 12                    | Have a nested loop. For each number find the difference fro inner loop with two pointers
+|10| 11        | Container With Most Water              | Medium             | Feb 13, 22               | Haven't solved yet
