@@ -15,3 +15,8 @@ Output: 5
 Constraints:
 
 -1000 <= a, b <= 1000'''
+
+# straight forward answer
+class Solution:
+    def getSum(self, a: int, b: int) -> int:
+        return a + b
