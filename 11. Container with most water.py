@@ -26,11 +26,28 @@ Constraints:
 n == height.length
 2 <= n <= 105
 0 <= height[i] <= 104'''
-
+# naive/brute force solution O(n^2)
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        tf = 0
-        af = 0
-        for num in height:
-            if num > tf:
-                num = tf
+        global_max = -math.inf
+        for i in range(len(height)):
+            for j in range(i+1, len(height)):
+                _min = min(height[i], height[j])
+                global_max = max(global_max, (j-i)*_min)
+        return global_max
+
+
+# O(n) solution in one go
+
+    def maxArea(self, height: List[int]) -> int:
+        global_max = -math.inf
+        s = 0
+        e = len(height) - 1
+        while s < e:
+            min_ = min(height[s], height[e])
+            global_max = max(global_max, min_*(e-s))
+            if height[s] < height[e]:
+                s += 1
+            else:
+                e -= 1
+        return global_max
