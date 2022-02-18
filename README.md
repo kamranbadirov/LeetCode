@@ -29,7 +29,7 @@
 #### Below list pertains to the list of questions called ["Blind 75"](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) hich is presumably a list of most important LC questions for coding interview
 
 # Array questions
-| #|LeetCode  | Problem                                | Difficulty         |    <div style="width:60px">Dates</div> | <div style="width:100px">Tips & Tricks</div>
+| #|LeetCode  | Problem                                | Difficulty         |  Dates| Tips & Tricks
 | - |--------  |:---------------------------------------| :-----------       | :----                    | :----
 |1 | 1         |  Two Sums                              |  Easy              | Feb 3, 22                | Using hashmap to keep track of index of values in the list. For each iteration check if the current number worked, then the diff (targe- curr num) should be in the hashmap.
 |2| 121       | Best Time to Buy and Sell Stock        |  Easy              | Feb 5, 22                | Use two moving pointer and one profit var to compare
@@ -41,3 +41,5 @@
 |8| 33        | Search in Rotated Sorted Array         | Medium             | Feb 11, 22               | Either left or right to the mid point if steadily increasing. Find mid point, check weather on either side target is within that range
 |9| 15        | 3 Sum                                   | Medium            | Feb 12                    | Have a nested loop. For each number find the difference fro inner loop with two pointers
 |10| 11        | Container With Most Water              | Medium             | Feb 16, 22               | Haven't solved yet
+
+# Binary questions
