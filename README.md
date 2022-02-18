@@ -43,3 +43,7 @@
 |10| 11        | Container With Most Water              | Medium             | Feb 16, 22               | Haven't solved yet
 
 # Binary questions
+
+| #|LeetCode  | Problem                                | Difficulty          |  Dates| Tips & Tricks
+| - |--------  |:---------------------------------------| :-----------       | :----                    | :----
+|11 | 371      |  Sum of two integers                   |  Medium            | Feb 17, 22               |use XOR for adding 1 and 0; use AND for ading 1; use << for carry bit. Do until AND returns
