@@ -16,7 +16,16 @@ Constraints:
 
 -1000 <= a, b <= 1000'''
 
-# straight forward answer
-class Solution:
-    def getSum(self, a: int, b: int) -> int:
-        return a + b
+# in Java it is straight forward, but in python int acts differently
+# class Solution {
+#     public int getSum(int a, int b) {
+#         while( b != 0 ){
+#             int temp1 = (a & b) << 1;
+#             int temp2 = a ^ b;
+#             a = temp2;
+#             b = temp1;
+#         }
+#         return a;
+
+#     }
+# }
