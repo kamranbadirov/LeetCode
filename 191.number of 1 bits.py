@@ -29,3 +29,8 @@ Constraints:
 The input must be a binary string of length 32.
 
 '''
+
+
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        return n ^ 0
