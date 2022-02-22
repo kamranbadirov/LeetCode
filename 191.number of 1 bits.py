@@ -33,4 +33,8 @@ The input must be a binary string of length 32.
 
 class Solution:
     def hammingWeight(self, n: int) -> int:
-        return n ^ 0
+        count = 0
+        while n :
+            count += n & 1
+            n >> 1
+        return count
