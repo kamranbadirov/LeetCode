@@ -37,3 +37,11 @@ class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         must_be = list(range(len(nums)+1))
         return list(set(must_be) - set(nums))[0]
+
+# Legit solution
+
+    def missingNumber(self, nums: List[int]) -> int:
+        res = 0
+        for i in range(len(nums)):
+            res ^= (i+1) ^ nums [i]
+        return res
