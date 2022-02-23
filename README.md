@@ -47,3 +47,4 @@
 | #|LeetCode  | Problem                                | Difficulty          |  Dates| Tips & Tricks
 | - |--------  |:---------------------------------------| :-----------       | :----                    | :----
 |11 | 371      |  Sum of two integers                   |  Medium            | Feb 17, 22               |use XOR for adding 1 and 0; use AND for ading 1; use << for carry bit. Do until AND returns
+|12 | 338      |  Counting bit                          | Easy                | Feb 22, 22              | And with 1 for each bit, shift bit to right
