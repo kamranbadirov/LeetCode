@@ -30,14 +30,10 @@ Constraints:
 #     }
 # }
 
-class Solution {
-    public int getSum(int a, int b) {
-        while( b != 0 ){
-            int temp1 = (a & b) << 1;
-            int temp2 = a ^ b;
-            a = temp2;
-            b = temp1;
-        }
-        return a;
-    }
-}
+class Solution:
+    def getSum(self, a: int, b: int) -> int:
+        while ( b!= 0 ):
+            temp = (a & b)  << 1
+            a = a ^ b
+            b = temp
+        return a
