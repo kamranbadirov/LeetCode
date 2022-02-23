@@ -29,3 +29,15 @@ Constraints:
 
 #     }
 # }
+
+class Solution {
+    public int getSum(int a, int b) {
+        while( b != 0 ){
+            int temp1 = (a & b) << 1;
+            int temp2 = a ^ b;
+            a = temp2;
+            b = temp1;
+        }
+        return a;
+    }
+}
