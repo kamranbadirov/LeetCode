@@ -25,9 +25,11 @@ The input must be a binary string of length 32
 
 class Solution:
     def reverseBits(self, n: int) -> int:
-        res = ''
-        while n:
-            temp = n ^ 0
-            res += str(temp)
+        res = 0
+        for i in range(32):
+            temp = n % 2
+            res = res << 1
+            res += temp
             n >>= 1
-        return int(res)
+        return res
+
