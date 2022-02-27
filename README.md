@@ -52,3 +52,8 @@
 |14 | 268      |  Missing Number                        | Easy               | Feb 23, 22              | XOR with itself  |
 |15 | 190      |  Reverse Bits                           | Easy              | Feb 24, 22              | loop through 32 bits
 
+# Dynamic Programming
+
+| #|LeetCode  | Problem                               | Difficulty       |  Dates| Tips & Tricks
+| - |--------  |:-------------------------------------| :-----------     | :----                          | :----
+|16 | 70      |  Climbing Stair                       |  Easy            | Feb 26, 22                   |  Either 1 or 2. The rest is based on previous two stairs
