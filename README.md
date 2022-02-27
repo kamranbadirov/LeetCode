@@ -46,6 +46,9 @@
 
 | #|LeetCode  | Problem                                | Difficulty          |  Dates| Tips & Tricks
 | - |--------  |:---------------------------------------| :-----------       | :----                    | :----
-|11 | 371      |  Sum of two integers                   |  Medium            | Feb 17, 22               |use XOR for adding 1 and 0; use AND for ading 1; use << for carry bit. Do until AND returns
-|12 | 191      |  Number of 1 bits                      | Easy                | Feb 21, 22              | And with 1 for each bit, shift bit to right
-|13 | 338      |  Counting bit                          | Easy                | Feb 22, 22              | count bits for each number in list(range(n+1))
+|11 | 371      |  Sum of Two Integers                   |  Medium            | Feb 17, 22               |use XOR for adding 1 and 0; use AND for ading 1; use << for carry bit. Do until AND returns
+|12 | 191      |  Number of 1 bits                      | Easy               | Feb 21, 22              | And with 1 for each bit, shift bit to right
+|13 | 338      |  Counting Bits                         | Easy               | Feb 22, 22              | count bits for each number in list(range(n+1))
+|14 | 268      |  Missing Number                        | Easy               | Feb 23, 22              | XOR with itself  |
+|15 | 190      |  Reverse Bits                           | Easy              | Feb 24, 22              | loop through 32 bits
+
