@@ -55,5 +55,5 @@
 # Dynamic Programming
 
 | #|LeetCode  | Problem                               | Difficulty       |  Dates| Tips & Tricks
-| - |--------  |:-------------------------------------| :-----------     | :----                          | :----
+| - |--------  |:-------------------------------------| :-----------     | :----                        | :----
 |16 | 70      |  Climbing Stair                       |  Easy            | Feb 26, 22                   |  Either 1 or 2. The rest is based on previous two stairs
