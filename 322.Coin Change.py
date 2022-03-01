@@ -29,5 +29,15 @@ Constraints:
 
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        pass
+        if amount == 0 or len(coins) == 0:
+            return 0
 
+        dp = [0] + [amount+1] * (amount)
+        for i in range(1, amount + 1):
+            for j in coins:
+                if j <= i:
+                    dp[i] = min(dp[i], 1 + dp[i-j])
+
+        if dp[amount] != amount+1:
+            return dp[amount]
+        return -1
