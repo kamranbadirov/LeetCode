@@ -57,3 +57,4 @@
 | #|LeetCode  | Problem                               | Difficulty       |  Dates| Tips & Tricks
 | - |--------  |:-------------------------------------| :-----------     | :----                        | :----
 |16 | 70      |  Climbing Stair                       |  Easy            | Feb 26, 22                   |  Either 1 or 2. The rest is based on previous two stairs
+|17 | 322     | Coin Change                           | Medium           | Feb 28, 22                   | Bottom up: create a list of amount+1 entries. Nested loop trough each value in amount and each coin in coins. Check is using the currecnt coins is less than existing solution is the dp list.
