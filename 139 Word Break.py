@@ -42,3 +42,17 @@ class Solution:
                 if dp[i]:
                     break
         return dp[0]
+
+    # another solution
+
+
+    def wordBreak2(self, s: str, wordDict: List[str]) -> bool:
+        n = len(s)
+        dp =[False] * (len(s) + 1)
+        dp[0] = True
+
+        for i in range(n+1):
+            for j in range(i):
+                if dp[j] and s[j:i] in wordDict:
+                    dp[i] = True
+        return dp[len(s)]
