@@ -34,3 +34,12 @@ All the elements of nums are unique.
 
 Follow up: What if negative numbers are allowed in the given array? How does it change the problem? What limitation we need to add to the question to allow negative numbers?'''
 
+class Solution:
+    def combinationSum4(self, nums: List[int], target: int) -> int:
+        dp = {0:1}
+
+        for val in range(1, target + 1):
+            dp[val] = 0
+            for num in nums:
+                dp[val] += dp.get(val-num, 0)
+        return dp[target]
