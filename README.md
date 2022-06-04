@@ -59,4 +59,5 @@
 |16 | 70      |  Climbing Stair                       |  Easy            | Feb 26, 22                   |  Either 1 or 2. The rest is based on previous two stairs
 |17 | 322     | Coin Change                           | Medium           | Feb 28, 22                   | Bottom up: create a list of amount+1 entries. Nested loop trough each value in amount and each coin in coins. Check is using the currecnt coins is less than existing solution is the dp list.
 |18 | 300     | Longest Increasing Subsequence        | Medium           | March 3                      | backwards nested loop
-|10 | 139     | Word Break                            | Medium           | March 5                      | Start from the end. check if currect substring in the dict.
+|19 | 139     | Word Break                            | Medium           | March 5                      | Start from the end. check if currect substring in the dict.
+|20 | 377     | Combination Sum IV                    | Medium           | Jun 3                        | Bottom up aproach
