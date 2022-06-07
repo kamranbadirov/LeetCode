@@ -61,3 +61,4 @@
 |18 | 300     | Longest Increasing Subsequence        | Medium           | March 3                      | backwards nested loop
 |19 | 139     | Word Break                            | Medium           | March 5                      | Start from the end. check if currect substring in the dict.
 |20 | 377     | Combination Sum IV                    | Medium           | Jun 3                        | Bottom up aproach
+|21 | 198     | House Robber                          | Medium           | Jun 6                        |
