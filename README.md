@@ -74,7 +74,7 @@
 |1| 1769         |  Merge Strings Alternately                  |  Easy        | Aug 7, 23|
 |2| 1071         |  Greatest Common Divisor of Strings         |  Easy        | Aug 7, 23|
 |3| 1431         |  Kids With the Greatest Number of Candies   |  Easy        | Aug 7, 23|
-
+|3| 605          |  Can Place Flowers                          |  Easy        | Aug 7, 23|
 
 
 
