@@ -1,6 +1,6 @@
 # LeetCode Practice Solutions
 
-#### This year I am commited to solve on average at least 1 leetcode question a day.
+#### This year I am commited to solve on average at least 1 leetcode question a day.(It was written in 2022)
 
 
 |#| LeetCode  | Problem          | Difficulty  | Date |
@@ -63,3 +63,7 @@
 |19 | 139     | Word Break                            | Medium           | March 5                      | Start from the end. check if currect substring in the dict.
 |20 | 377     | Combination Sum IV                    | Medium           | Jun 3                        | Bottom up aproach
 |21 | 198     | House Robber                          | Medium           | Jun 6                        |
+
+# Today is Aug 7,23. Resrtarting Leetcode in 2023. Epic Return. 
+# Below problems are from LeetCode75 StudyPlan
+|1| 1769         |  Merge Strings Alternately             |  Easy        | Aug 7, 23|
