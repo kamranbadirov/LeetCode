@@ -71,7 +71,10 @@
 ## Today is Aug 7, 2023 and I am resrtarting Leetcode in 2023. Below problems are from LeetCode75 StudyPlan.
 |#| LeetCode  | Problem          | Difficulty  | Date |
 |-| --------  |:---------------: | -----------:| ----: |
-|1| 1769         |  Merge Strings Alternately             |  Easy        | Aug 7, 23|
-|1| 1071         |  Greatest Common Divisor of Strings    |  Easy        | Aug 7, 23|
+|1| 1769         |  Merge Strings Alternately                  |  Easy        | Aug 7, 23|
+|2| 1071         |  Greatest Common Divisor of Strings         |  Easy        | Aug 7, 23|
+|3| 1431         |  Kids With the Greatest Number of Candies   |  Easy        | Aug 7, 23|
+
+
 
 
