@@ -72,5 +72,6 @@
 |#| LeetCode  | Problem          | Difficulty  | Date |
 |-| --------  |:---------------: | -----------:| ----: |
 |1| 1769         |  Merge Strings Alternately             |  Easy        | Aug 7, 23|
+|1| 1071         |  Greatest Common Divisor of Strings    |  Easy        | Aug 7, 23|
 
 
