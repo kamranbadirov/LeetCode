@@ -64,6 +64,6 @@
 |20 | 377     | Combination Sum IV                    | Medium           | Jun 3                        | Bottom up aproach
 |21 | 198     | House Robber                          | Medium           | Jun 6                        |
 
-# Today is Aug 7,23. Resrtarting Leetcode in 2023. Epic Return. 
-# Below problems are from LeetCode75 StudyPlan
+# Epic Return.
+## Today is Aug 7, 2023 and I am resrtarting Leetcode in 2023. Below problems are from LeetCode75 StudyPlan.
 |1| 1769         |  Merge Strings Alternately             |  Easy        | Aug 7, 23|
