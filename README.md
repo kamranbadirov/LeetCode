@@ -71,12 +71,12 @@
 ## Today is Aug 7, 2023 and I am resrtarting Leetcode in 2023. Below problems are from LeetCode75 StudyPlan.
 |#| LeetCode  | Problem          | Difficulty  | Date | Tips & Tricks
 |-| --------  |:---------------: | -----------:| ----: |
-|1| 1769         |  Merge Strings Alternately                  |  Easy        | Aug 7, 23| |
-|2| 1071         |  Greatest Common Divisor of Strings         |  Easy        | Aug 7, 23| |
-|3| 1431         |  Kids With the Greatest Number of Candies   |  Easy        | Aug 7, 23| |
-|4| 605          |  Can Place Flowers                          |  Easy        | Aug 7, 23| |
-|5| 345          |  Reverse Vowels of a String                 |  Easy        | Aug 8, 23| | could use two pointer approach or collecting vowels to stack and poping them in second loop
+|1| 1769   |  Merge Strings Alternately                  |  Easy        | Aug 7, 23| |
+|2| 1071   |  Greatest Common Divisor of Strings         |  Easy        | Aug 7, 23| |
+|3| 1431   |  Kids With the Greatest Number of Candies   |  Easy        | Aug 7, 23| |
+|4| 605    |  Can Place Flowers                          |  Easy        | Aug 7, 23| |
+|5| 345    |  Reverse Vowels of a String                 |  Easy        | Aug 8, 23| | could use two pointer approach or collecting vowels to stack and poping them in second loop
+|6| 151    |  Reverse Words in a String                  |  Medium        | Aug 8, 23| Eaasiest solution to us python built in function such as split. Othwervise trim, reverse
 
 
-345. Reverse Vowels of a String
 
