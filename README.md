@@ -81,3 +81,7 @@
 |8| 283    |  Move Zeroes                                |  Easy        | Aug 27, 23| 
 |9| 392    |  Is Subsequence                             |  Easy        | Aug 27, 23| 
 |10| 11    |  Container With Most Water                  | Medium       | Aug 29, 23| Two pointer moving towards each other. Move the pointer that points to smaller container
+|11| 1679  |  Max Number of K-Sum Pairs                  | Medium       | Aug 29, 23| itirate and see if the the difference between current and taget has been met before. Count all such pairs.
+
+
+
