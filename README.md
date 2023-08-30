@@ -80,3 +80,4 @@
 |7| 334    |  Increasing Triplet Subsequence             |  Medium      | Aug 9, 23| Two inf big numbers a,b. Loop through and compare with a and b 
 |8| 283    |  Move Zeroes                                |  Easy        | Aug 27, 23| 
 |9| 392    |  Is Subsequence                             |  Easy        | Aug 27, 23| 
+|10| 11    |  Container With Most Water                  | Medium       | Aug 29, 23| Two pointer moving towards each other. Move the pointer that points to smaller container
