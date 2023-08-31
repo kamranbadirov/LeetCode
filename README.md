@@ -86,5 +86,3 @@
 |13| 1456  | Maximum Number of Vowels in a Substring of Given Length |  Medium        | Aug 30, 23| Classic sliding window question 
 
 
-
-1456. Maximum Number of Vowels in a Substring of Given Length
