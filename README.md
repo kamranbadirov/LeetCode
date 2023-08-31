@@ -82,4 +82,9 @@
 |9| 392    |  Is Subsequence                             |  Easy        | Aug 27, 23| 
 |10| 11    |  Container With Most Water                  | Medium       | Aug 29, 23| Two pointer moving towards each other. Move the pointer that points to smaller container
 |11| 1679  |  Max Number of K-Sum Pairs                  | Medium       | Aug 29, 23| itirate and see if the the difference between current and taget has been met before. Count all such pairs.
-|12| 643   | Maximum Average Subarray                    |  Easy        | Aug 30, 23| 
+|12| 643   | Maximum Average Subarray                                |  Easy        | Aug 30, 23| 
+|13| 1456  | Maximum Number of Vowels in a Substring of Given Length |  Medium        | Aug 30, 23| Classic sliding window question 
+
+
+
+1456. Maximum Number of Vowels in a Substring of Given Length
