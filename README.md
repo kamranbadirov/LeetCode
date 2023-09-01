@@ -86,4 +86,10 @@
 |13| 1456  | Maximum Number of Vowels in a Substring of Given Length |  Medium        | Aug 30, 23| Classic sliding window question 
 |14| 1732  | Find the Highest Altitude                   |  Easy        | Aug 30, 23| 
 |15| 724   | Find Pivot Index                            |  Easy        | Aug 30, 23| 
+|16| 2215  | Find the Difference of Two Arrays           |  Easy        | Aug 30, 23| 
+
+
+
+
+
   
