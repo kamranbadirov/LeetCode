@@ -88,12 +88,4 @@
 |15| 724   | Find Pivot Index                            |  Easy        | Aug 30, 23| 
 |16| 2215  | Find the Difference of Two Arrays           |  Easy        | Aug 30, 23| 
 |17| 1207  | Unique Number of Occurrences                |  Easy        | Aug 30, 23| 
-
-
-
-
-
-
-
-
-  
+|18| 933   |  Number of Recent Calls                     |  Easy        | Aug 30, 23| 
