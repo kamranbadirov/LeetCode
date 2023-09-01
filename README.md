@@ -87,6 +87,10 @@
 |14| 1732  | Find the Highest Altitude                   |  Easy        | Aug 30, 23| 
 |15| 724   | Find Pivot Index                            |  Easy        | Aug 30, 23| 
 |16| 2215  | Find the Difference of Two Arrays           |  Easy        | Aug 30, 23| 
+|17| 1207  | Unique Number of Occurrences                |  Easy        | Aug 30, 23| 
+
+
+
 
 
 
