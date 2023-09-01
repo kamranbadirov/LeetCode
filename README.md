@@ -85,3 +85,5 @@
 |12| 643   | Maximum Average Subarray                    |  Easy        | Aug 30, 23| 
 |13| 1456  | Maximum Number of Vowels in a Substring of Given Length |  Medium        | Aug 30, 23| Classic sliding window question 
 |14| 1732  | Find the Highest Altitude                   |  Easy        | Aug 30, 23| 
+|15| 724   | Find Pivot Index                            |  Easy        | Aug 30, 23| 
+  
