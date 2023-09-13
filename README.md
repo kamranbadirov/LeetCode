@@ -90,6 +90,9 @@
 |17| 1207  | Unique Number of Occurrences                |  Easy        | Aug 30, 23| 
 |18| 933   |  Number of Recent Calls                     |  Easy        | Aug 30, 23| 
 |19| 209   |  Reverse Linked List                        |  Easy        | Aug 30, 23| 
-|20| 104   |  Maximum Depth of Binary Tree               |  Easy        | Aug 30, 23| 
+|20| 104   |  Maximum Depth of Binary Tree               |  Easy        | Aug 30, 23|
+|21| 105   |  Leaf-Similar Trees                         |  Easy        | Sep 12, 23| 
+
+
 
 
