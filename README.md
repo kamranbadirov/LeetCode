@@ -93,3 +93,4 @@
 |20| 104   |  Maximum Depth of Binary Tree               |  Easy        | Aug 30, 23|
 |21| 872   |  Leaf-Similar Trees                         |  Easy        | Sep 12, 23| 
 |22| 700   |  Search in a Binary Search Tree             |  Easy        | Sep 12, 23| 
+|23| 374   |  Guess Number Higher or Lower               |  Easy        | Sep 12, 23| 
