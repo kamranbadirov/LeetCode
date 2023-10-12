@@ -95,3 +95,6 @@
 |22| 700   |  Search in a Binary Search Tree             |  Easy        | Sep 12, 23| 
 |23| 374   |  Guess Number Higher or Lower               |  Easy        | Sep 12, 23| 
 |24| 1657   |  Determine if Two Strings Are Close        |  Medium      | Oct 11, 23| 
+|25| 2352   |  Equal Row and Column Pairs                |  Medium      | Oct 11, 23| 
+
+
