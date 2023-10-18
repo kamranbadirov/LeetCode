@@ -96,5 +96,13 @@
 |23| 374   |  Guess Number Higher or Lower               |  Easy        | Sep 12, 23| 
 |24| 1657   |  Determine if Two Strings Are Close        |  Medium      | Oct 11, 23| 
 |25| 2352   |  Equal Row and Column Pairs                |  Medium      | Oct 11, 23| 
+|26| 2390   |  Removing Stars From a String              |  Medium      | Oct 18, 23| 
+|27| 2390   |  House Robber II                           |  Medium      | Oct 18, 23| 
+
+
+
+
+
+
 
 
