@@ -98,7 +98,6 @@
 |25| 2352   |  Equal Row and Column Pairs                |  Medium      | Oct 11, 23| 
 |26| 2390   |  Removing Stars From a String              |  Medium      | Oct 18, 23| 
 |27| 2390   |  House Robber II                           |  Medium      | Oct 18, 23| 
-|28| 1493   |  Longest Subarray of 1's After Deleting One Element |  Medium | Oct 18, 23| Sliding window. as encounter 0  and zero count exceeds 1 slide window until zero count is again 1. Return longest window
 
 
 
