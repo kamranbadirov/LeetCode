@@ -102,16 +102,16 @@
 |29| 735   |  Asteroid Collision                          |  Medium      | Oct 19, 23| Stack question
 |30| 394   |   Decode String                              |  Medium      | Oct 19, 23| Stack question
 |31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Queue question
-|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
-|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
-|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
-|31| 2095  |    Delete the Middle Node of a Linked List   |  Medium      | Oct 19, 23| Linked List
-|31| 328   |    Odd Even Linked List                      |  Medium      | Oct 19, 23| Linked List
-|31| 2130  |    Maximum Twin Sum of a Linked List         |  Medium      | Oct 24, 23| Linked List
-|31| 1448  |    Count Good Nodes in Binary Tree           |  Medium      | Oct 25, 23| DFS
-|31| 437   |    Path Sum III                              |  Medium      | Oct 27, 23| DFS
-|31| 1372  |    Longest ZigZag Path in a Binary Tree      |  Medium      | Nov 5, 23 | DFS
-|31| 1373  |    Lowest Common Ancestor of a Binary Tree   |  Medium      | Nov 10, 23| DFS
+|32| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|33| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|34| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|35| 2095  |    Delete the Middle Node of a Linked List   |  Medium      | Oct 19, 23| Linked List
+|36| 328   |    Odd Even Linked List                      |  Medium      | Oct 19, 23| Linked List
+|37| 2130  |    Maximum Twin Sum of a Linked List         |  Medium      | Oct 24, 23| Linked List
+|38| 1448  |    Count Good Nodes in Binary Tree           |  Medium      | Oct 25, 23| DFS
+|39| 437   |    Path Sum III                              |  Medium      | Oct 27, 23| DFS
+|40| 1372  |    Longest ZigZag Path in a Binary Tree      |  Medium      | Nov 5, 23 | DFS
+|41| 1373  |    Lowest Common Ancestor of a Binary Tree   |  Medium      | Nov 10, 23| DFS
 
 
 
