@@ -100,6 +100,31 @@
 |27| 2390   |  House Robber II                           |  Medium      | Oct 18, 23| 
 |28| 1493   |  Longest Subarray of 1's After Deleting One Element |  Medium | Oct 18, 23| Sliding window. as encounter 0  and zero count exceeds 1 slide window until zero count is again 1. Return longest window
 |29| 735   |  Asteroid Collision                          |  Medium      | Oct 19, 23| Stack question
+|30| 394   |   Decode String                              |  Medium      | Oct 19, 23| Stack question
+|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Queue question
+|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|31| 394   |    Dota2 Senate                              |  Medium      | Oct 19, 23| Stack question
+|31| 2095  |    Delete the Middle Node of a Linked List   |  Medium      | Oct 19, 23| Linked List
+|31| 328   |    Odd Even Linked List                      |  Medium      | Oct 19, 23| Linked List
+|31| 2130  |    Maximum Twin Sum of a Linked List         |  Medium      | Oct 24, 23| Linked List
+|31| 1448  |    Count Good Nodes in Binary Tree           |  Medium      | Oct 25, 23| DFS
+|31| 437   |    Path Sum III                              |  Medium      | Oct 27, 23| DFS
+|31| 1372  |    Longest ZigZag Path in a Binary Tree      |  Medium      | Nov 5, 23 | DFS
+|31| 1373  |    Lowest Common Ancestor of a Binary Tree   |  Medium      | Nov 10, 23| DFS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
