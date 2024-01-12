@@ -116,7 +116,7 @@
 |43| 450  |    Delete Node in a BST              |  Medium            | Dec 7, 23| Binary Search Tree
 |44| 841  |    Keys and Rooms                              |  Medium      | Jan 11, 23| Graphs - DFS
 |45| 547  |    Number of Provinces               |  Medium      | Jan 12, 23| Graphs - DFS
-|46| 1466 |    LReorder Routes to Make All Paths Lead to the City Zero   |  Medium      | Jan 12, 23| Graphs - DFS
+|46| 1466 |    Reorder Routes to Make All Paths Lead to the City Zero   |  Medium      | Jan 12, 23| Graphs - DFS
 
 
 
