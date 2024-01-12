@@ -113,6 +113,14 @@
 |40| 1372  |    Longest ZigZag Path in a Binary Tree      |  Medium      | Nov 5, 23 | DFS
 |41| 1373  |    Lowest Common Ancestor of a Binary Tree   |  Medium      | Nov 10, 23| DFS
 
+|42| 700  |     Search in a Binary Search Tree   |  Medium | Dec 7, 23| Binary Search Tree
+|43| 450  |    Delete Node in a BST              |  Medium            | Dec 7, 23| Binary Search Tree
+
+|44| 841  |    Keys and Rooms   |  Medium      | Jan 11, 23| Graphs - DFS
+|45| 547  |    Number of Provinces   |  Medium      | Jan 12, 23| Graphs - DFS
+|46| 1466  |    LReorder Routes to Make All Paths Lead to the City Zero   |  Medium      | Jan 12, 23| Graphs - DFS
+
+
 
 
 
