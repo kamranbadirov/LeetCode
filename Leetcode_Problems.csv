@@ -1,38 +1,5 @@
-,Week 1,Week 2,Week 3,Week 4,Week 5
-Aug,,Run 3 times,Run 0/3 times,Gym/Run 5/4 times,Gym/Run 5/4 times
-,,Read 70 pages ,Read 10/70 pages ,Finish the book,Finish the book
-,,Leet code 10 questions,Leet code 1/10 questions,Leetcode 2/10 question,Start new book
-,,Workout 3 times,Workout 4/3 times,,Leetcode
-,,,,,Start building webpage
-,,,,,
-,,,,,
-,Week 1,Week 2,Week 3,Week 4,
-Sep,gym/run 3/4 times,Gym 4 times: gymed 5 times ,Gym 4/4 times,,
-,Read 107/100 pages,Read up to 200 pages: 224 read,Finish the book,,
-,Leetcode,Leetcode ,Ramp up leetcode,,
-,Coding ,,30 job application,,
-,,,,,
-,Week 1,Week 2,Week 3,Week 4,
-Oct ,gym/run 4/4 times,Leetcode,Gym/Run 4 gym/1run,Gym/Run,
-,Finihsed the book,gym/run 4/4 times,Read 71/100 pages of SJ,Read til 130 pages,
-,Leetcode,Travel to NYC,Leetcode ,Leetcode ,
-,Coding ,34th Birthday!,Job Application 8/30,Job Apps 537/520,
-,,,,,
-Nov,Week 1,Week 2,Week 3,Week 4,Week 5
-,gym/run ,gym/run 4 gym 2 run ,gym/run - fit test, run 42 km. Finished 4 gym, 44 km, Fit test didn't hit bench goal,gym 4/4 times 
-run 40.8/45 km+
-Loose 1kg+ ( <= 79kg),Read chapter 1 Evropa Turki
-,Steve Jobs book read till 250,Steve Jobs book 300,Steve Jobs book finish ,Finish Steve Job book,Online Assessment IBM
-,Leetcode 10 questions,Leetcode 10 questions,Leetcode 10 questions,look into other jobs,FInish CSC409 Interviews
-,Job application 550 - did 540,Job application ,Job application reach 600,Stard Muraj Aji's book,Finish CSC373 gradings 
-,Code code something up,,Code code something up,Progress in fingerstyle,Leetcode
-,Learn one more fingersstyle ,,Improvde fingerstyle ,Leetcode :) ,Job Applications
-,,,,,
-,,,,,
-,Week 1,Week 2,Week 3,Week 4,
-Dec,,Run 14 times,Finish CSC409 interview,<= 75kg by Sunday Dec 31,
-,,CSC409 exam invigilation,4/6 times run/gym,Finish the book,
-,,RGOP,get weight to 75-74kg. got to 75.6,run 7 times+ 9km each ,
-,,Read 50%,Leetcode,Finish CSC409 A3 reports ,
-,,,Read 3 chapters ,Job applications ,
-,,,,Finish learning one finger style song,
+Problem name ,Difficulty level ,Hints 
+273. Integer to English Words,Hard ,Use a dictionary 
+3016. Minimum Number of Pushes to Type Word II,Medium ,How many iteration of 8 numbers
+107. Binary Tree Level Order Traversal II | Medium,Medium,Basic BFS
+116. Populating Next Right Pointers in Each Node,Medium,Basic BFS
