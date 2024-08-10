@@ -7,5 +7,5 @@ Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,107. Binary Tree Level 
 Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,116. Populating Next Right Pointers in Each Node,Done,Basic BFS
 Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,885. Spiral Matrix III,Done,
 Fri Aug 09 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,840. Magic Squares In Grid,Done,for every 3x3 starting at (i,j) check if it is magical
-Fri Aug 09 2024 00:00:00 GMT-0400 (GMT-04:00),Easy ,Arrray,163. Missing Ranges | Easy | Array,Done,
+Fri Aug 09 2024 00:00:00 GMT-0400 (GMT-04:00),Easy ,Array,163. Missing Ranges | Easy | Array,Done,
 ,Hard,,,,
