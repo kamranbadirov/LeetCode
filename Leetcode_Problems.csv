@@ -5,7 +5,5 @@ Tue Aug 06 2024 00:00:00 GMT-0400 (GMT-04:00),Hard,Hash Table,273. Integer to En
 Wed Aug 07 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Hash Table,3016. Minimum Number of Pushes to Type Word II,Done,How many iteration of 8 numbers
 Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,107. Binary Tree Level Order Traversal II | Medium,Done,Basic BFS
 Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,116. Populating Next Right Pointers in Each Node,Done,Basic BFS
-Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,885. Spiral Matrix III,Done,
 Fri Aug 09 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,840. Magic Squares In Grid,Done,for every 3x3 starting at (i,j) check if it is magical
 Fri Aug 09 2024 00:00:00 GMT-0400 (GMT-04:00),Easy ,Array,163. Missing Ranges | Easy | Array,Done,
-,Hard,,,,
