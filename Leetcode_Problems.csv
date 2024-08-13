@@ -3,7 +3,3 @@ Date,Category,Topic,Problem Name ,Status,Notes
 Wed Jul 31 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Medium,Stacks,735. Asteroid Collision,Done,
 Tue Aug 06 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Hard,Hash Table,273. Integer to English Words,Done,Use a dictionary 
 Wed Aug 07 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Medium,Hash Table,3016. Minimum Number of Pushes to Type Word II,Done,How many iteration of 8 numbers
-Thu Aug 08 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Medium,BFS,107. Binary Tree Level Order Traversal II | Medium,Done,Basic BFS
-Fri Aug 09 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Medium,Matrix ,840. Magic Squares In Grid,Done,for every 3x3 starting at (i,j) check if it is magical
-Fri Aug 09 2024 00:00:00 GMT-0400 (Eastern Daylight Time),Easy ,Array,163. Missing Ranges | Easy | Array,Done,straightforward 
-,Medium,Matrix ,959. Regions Cut By Slashes,Done,Similar to count islands problem
