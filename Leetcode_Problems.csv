@@ -1,10 +1,12 @@
-,,,,,
-Date,Category,Topic,Problem Name ,Status,Notes
-Wed Jul 31 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Stacks,735. Asteroid Collision,Done,
-Tue Aug 06 2024 00:00:00 GMT-0400 (GMT-04:00),Hard,Hash Table,273. Integer to English Words,Done,Use a dictionary 
-Wed Aug 07 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Hash Table,3016. Minimum Number of Pushes to Type Word II,Done,How many iteration of 8 numbers
-Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,107. Binary Tree Level Order Traversal II | Medium,Done,Basic BFS
-Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,116. Populating Next Right Pointers in Each Node,Done,Basic BFS
-Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,885. Spiral Matrix III,Done,DFS
-,Medium,Backtracking,40. Combination Sum II,Done,Use loop
-,Medium,Array,1590. Make Sum Divisible by P,Done,Module the difference 
+,,,,
+Date,Category,Topic,Problem Name ,Notes
+Wed Jul 31 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Stacks,735. Asteroid Collision,
+Tue Aug 06 2024 00:00:00 GMT-0400 (GMT-04:00),Hard,Hash Table,273. Integer to English Words,Use a dictionary 
+Wed Aug 07 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Hash Table,3016. Minimum Number of Pushes to Type Word II,How many iteration of 8 numbers
+Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,107. Binary Tree Level Order Traversal II | Medium,Basic BFS
+Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,BFS,116. Populating Next Right Pointers in Each Node,Basic BFS
+Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,885. Spiral Matrix III,DFS
+,Medium,Backtracking,39. Combination Sum,Make sure if uniqueness is important 
+,Medium,Backtracking,40. Combination Sum II,Similar problem as before
+,Medium,Backtracking,216. Combination Sum III,Use loop
+,Medium,Array,1590. Make Sum Divisible by P,Module the difference 
