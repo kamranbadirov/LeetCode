@@ -10,3 +10,4 @@ Thu Aug 08 2024 00:00:00 GMT-0400 (GMT-04:00),Medium,Matrix ,885. Spiral Matrix 
 ,Medium,Backtracking,40. Combination Sum II,Similar problem as before
 ,Medium,Backtracking,216. Combination Sum III,Use loop
 ,Medium,Array,1590. Make Sum Divisible by P,Module the difference 
+,Medium,DP,1014. Best Sightseeing Pair,update the highest value of nums[i] + i as iterating
