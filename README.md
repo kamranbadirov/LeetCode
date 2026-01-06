@@ -1,6 +1,6 @@
 # LeetCode Practice Solutions
 
-#### This year I am commited to solve on average at least 1 leetcode question a day.(It was written in 2022)
+#### This year I am commited to solve on average at least 1 leetcode question a day.(It was written in 2022). (Retired this this).
 
 
 |#| LeetCode  | Problem          | Difficulty  | Date |
